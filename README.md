@@ -1,2 +1,4 @@
 # Duolingo-English-Test-App-
-download link and an EXE for Duolingo English Test App for windows by Duolingo
+Download link and an EXE for the Duolingo English Test App for Windows by Duolingo
+
+link: [https://englishtest.duolingo.com/download]
